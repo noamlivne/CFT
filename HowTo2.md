@@ -33,7 +33,7 @@ Edit > Add Encryption Row enables you to add a row to your project. You should s
 Edit > Scanners and Licenses ... enables you to Add, Edit, and Delete a scanner. Each scanner can have a unique name, Licenses and Key Mapping. 
 You can also paste the License(s) you have purchased. Do not forget to press OK and Close when done.
 
-![screenshot](img/man4.png)
+![screenshot](img/CFT2004Licensing.jpg)
 
 Tools > Debug Logs Filtering enables you to view the debug logs in a filtered manner. This option is for advanced users only.
 
