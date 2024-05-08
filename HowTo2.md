@@ -26,7 +26,7 @@ To Delete an existing line, select that line and click on ![Delete](img/delete.p
 To Sort the lines according to their frequency, click on the "Frequency, MHz" column title.
 To manually move a line up or down, select that line and click on ![Up](img/up.png) or ![Down](img/down.png).
 
-The Filter drop-down box allows you to filter between the different views of All, DMR, and NXDN lines.
+The Filter drop-down box allows you to filter between the different views of All, DMR, and NXDN rows.
 
 Edit > Add Encryption Row enables you to add a row to your project. You should select the relevant encryption type.
 
