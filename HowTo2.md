@@ -2,7 +2,7 @@
 
 ## The Graphical User Interface of the CFT Program
 
-![screenshot](img/CFT20024Licensing.jpg)
+![screenshot](img/CFT2004Licensing.jpg)
 
 The CFT program creates a project that allows you to enter decryption keys to specific frequencies. Exporting these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
 
