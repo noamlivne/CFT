@@ -12,7 +12,11 @@ The upper ribbon and icons of the CFT program are quite self explanatory.
 Create a New project by going to File > New, or by clicking on ![New](img/new.png), or by using Ctrl + N.
 Open an already saved .cfp project by going to File > Open..., or by clicking on ![Open](img/open.png), or by using Ctrl + O.
 Make sure to Save your project from time to time, by going to File > Save or Save As..., or by clicking on ![Save](img/save.png), or by Ctrl + S.
-You may have issues Saving the project to your Documents directory, so Save it to a different location such as Downloads.
+
+To import an existing alice.cft file click on File > Import CFT file ...
+To export your project as an alice.cft file (to be saved in the scanner), click on File > Export CFT file ...
+
+You may have issues Saving the project .cfp file or the alice.cft file to your Documents directory, so Save it to a different location such as Downloads.
 You will be prompted to Save your project when Exiting.
 
 To Add a line to the project file click on ![Add](img/add.png), or press Insert.
@@ -24,7 +28,10 @@ To manually move a line up or down, select that line and click on ![Up](img/up.p
 
 The Filter drop-down box allows you to filter between the different views of All, DMR, and NXDN lines.
 
-Tools > Licensing... enables you to enter the License Key(s) you have purchased. Make sure to press OK after pasting the long License text.
+Edit > Add Encryption Row enables you to add a row to your project. You should select the relevant encryption type.
+
+Edit > Scanners and Licenses ... enables you to Add, Edit, and Delete a scanner. Each scanner can have a unique name, Licenses and Key Mapping. 
+You can also paste the License(s) you have purchased. Do not forget to press OK and Close when done.
 
 ![screenshot](img/man4.png)
 
@@ -32,7 +39,7 @@ Tools > Debug Logs Filtering enables you to view the debug logs in a filtered ma
 
 ![screenshot](img/man5.png)
 
-The Help menu contains the version number.
+The Help > About menu contains the version number and useful links for inpformation.
 
 Make sure to use the latest version.
 
@@ -43,7 +50,7 @@ The parameters that you enter for each entry will be reflected in the main table
 Each entry has an optional Notes field that is there for your convenience. It is not taken into account in the decryption process nor saved to the scanner.
 
 
-## Creating DMR Encryption Method row
+## Creating DMR (Motorola BP or Hytera BP) Encryption Method row
 
 Initially it is assumed that you have an encryption key, you know what encryption algorithm it is designed for and what frequency the radio is transmitting on.
 
@@ -78,7 +85,7 @@ In this case we have to create two data rows where we have the same frequency bu
 
 ### Special case
 
-Suppose that there are many Talk Groups that are encrypted with a key, but only one specific Talk Group does not use a key and its broadcast is clear. For this purpose, when selecting the Encryption Method for that specific Talk Group, the value should be "No encrypt". You must also select "Non Encrypted" in the Encryption Value field. 
+Suppose that there are many Talk Groups that are encrypted with a key, but only one specific Talk Group does not use a key and its broadcast is clear. You must select "Non Encrypted" in the Encryption Value field. 
 At the end, you will have two entries for the same frequency: 
 
 ![screenshot](img/man10.png)
