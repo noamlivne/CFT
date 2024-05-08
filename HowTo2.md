@@ -14,7 +14,7 @@ Open an already saved .cfp project by going to File > Open..., or by clicking on
 Make sure to Save your project from time to time, by going to File > Save or Save As..., or by clicking on ![Save](img/save.png), or by Ctrl + S.
 
 To import an existing alice.cft file click on File > Import CFT file ...
-To export your project as an alice.cft file (to be saved in the scanner), click on File > Export CFT file ...
+**To export your project as an alice.cft file (to be saved in the scanner), click on File > Export CFT file ...**
 
 You may have issues Saving the project .cfp file or the alice.cft file to your Documents directory, so Save it to a different location such as Downloads.
 You will be prompted to Save your project when Exiting.
