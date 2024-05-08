@@ -43,8 +43,6 @@ The Help > About menu contains the version number and useful links for inpformat
 
 Make sure to use the latest version.
 
-![screenshot](img/man6.png)
-
 The parameters that you enter for each entry will be reflected in the main table view. Unmarked values will be denoted by "-".
 
 Each entry has an optional Notes field that is there for your convenience. It is not taken into account in the decryption process nor saved to the scanner.
