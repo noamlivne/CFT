@@ -17,10 +17,12 @@ You will be prompted to Save your project when Exiting.
 
 To Add a line to the project file click on ![Add](img/add.png), or press Insert.
 To Duplicate an existing line, including all its data, select that line and click on ![Duplicate](img/duplicate.png).
-To Delete an existing line, select that line and click on ![Delete](img/delete.png). Note that this action is irreversible.
+To Delete an existing line, select that line and click on ![Delete](img/delete.png), or press Delete. Note that this action is irreversible.
 
 To Sort the lines according to their frequency, click on the "Frequency, MHz" column title.
 To manually move a line up or down, select that line and click on ![Up](img/up.png) or ![Down](img/down.png).
+
+The Filter drop-down box allows you to filter between the different views of All, DMR, and NXDN lines.
 
 Tools > Licensing... enables you to enter the License Key(s) you have purchased. Make sure to press OK after pasting the long License text.
 
