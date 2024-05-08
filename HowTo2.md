@@ -4,18 +4,18 @@
 
 ![screenshot](img/man7.png)
 
-The CFT program allows you to enter decryption keys to specific frequencies. Saving these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
+The CFT program creates a project that allows you to enter decryption keys to specific frequencies. Exporting these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
 
 **Make sure to backup your alice.cft file from time to time as it contains important data & your purchased License Key(s).** You can do so by manually creating a copy of the **alice.cft** file and naming it meaningfully, such as "alice - Backup 20240229.cft". Save it locally on your computer or in the cloud. To use that backup later, if needed, rename it back to **alice.cft** and copy it to the root of the scanner's memory card.
 
 The upper ribbon and icons of the CFT program are quite self explanatory. 
-Create a New setting by going to File > New, or by clicking on ![New](img/new.png).
-Open an already saved file by going to File > Open..., or by clicking on ![Open](img/open.png).
-Make sure to Save your file from time to time, by going to File > Save or Save As..., or by clicking on ![Save](img/save.png).
-You may have issues Saving the file to your Documents directory, so Save it to a different location such as Downloads.
-You will be prompted to Save your work when Exiting.
+Create a New project by going to File > New, or by clicking on ![New](img/new.png), or by using Ctrl + N.
+Open an already saved .cfp project by going to File > Open..., or by clicking on ![Open](img/open.png), or by using Ctrl + O.
+Make sure to Save your project from time to time, by going to File > Save or Save As..., or by clicking on ![Save](img/save.png), or by Ctrl + S.
+You may have issues Saving the project to your Documents directory, so Save it to a different location such as Downloads.
+You will be prompted to Save your project when Exiting.
 
-To Add a line to the alice.cft file click on ![Add](img/add.png).
+To Add a line to the project file click on ![Add](img/add.png), or press Insert.
 To Duplicate an existing line, including all its data, select that line and click on ![Duplicate](img/duplicate.png).
 To Delete an existing line, select that line and click on ![Delete](img/delete.png). Note that this action is irreversible.
 
