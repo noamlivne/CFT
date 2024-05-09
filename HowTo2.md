@@ -2,7 +2,7 @@
 
 ## The Graphical User Interface of the CFT Program
 
-![screenshot](img/CFT2004Main.jpg)
+![screenshot](img/CFT2_0_0_5Main.jpg)
 
 The CFT program creates a Project file (cfp) that allows you to enter decryption keys and other settings for specific frequencies. Exporting these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
 
@@ -33,7 +33,7 @@ Edit > Add Encryption Row enables you to add a row to your project. You should s
 Edit > Scanners and Licenses ... enables you to Add, Edit, and Delete a scanner. Each scanner can have a unique name, Licenses and Key Mapping. 
 You can also paste the License(s) you have purchased by clicking on the Licenses button. Do not forget to press OK and Close when done.
 
-![screenshot](img/CFT2004Licensing.jpg)
+![screenshot](img/CFT2_0_0_5Licensing.jpg)
 
 Tools > Debug Logs Filtering enables you to view the debug logs in a filtered manner. This option is for advanced users only.
 
