@@ -4,7 +4,7 @@
 
 ![screenshot](img/CFT2004Main.jpg)
 
-The CFT program creates a project that allows you to enter decryption keys to specific frequencies. Exporting these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
+The CFT program creates a Project file (cfp) that allows you to enter decryption keys and other settings for specific frequencies. Exporting these settings creates the **alice.cft** file. Do not change this file's name when saving it to the scanner. Place **alice.cft** in the root directory "\\" of the Scanner's memory card (for example, E:\\).
 
 **Make sure to backup your alice.cft file from time to time as it contains important data & your purchased License Key(s).** You can do so by manually creating a copy of the **alice.cft** file and naming it meaningfully, such as "alice - Backup 20240229.cft". Save it locally on your computer or in the cloud. To use that backup later, if needed, rename it back to **alice.cft** and copy it to the root of the scanner's memory card.
 
@@ -19,19 +19,19 @@ To import an existing alice.cft file click on File > Import CFT file ...
 You may have issues Saving the project .cfp file or the alice.cft file to your Documents directory, so Save it to a different location such as Downloads.
 You will be prompted to Save your project when Exiting.
 
-To Add a line to the project file click on ![Add](img/add.png), or press Insert.
-To Duplicate an existing line, including all its data, select that line and click on ![Duplicate](img/duplicate.png).
-To Delete an existing line, select that line and click on ![Delete](img/delete.png), or press Delete. Note that this action is irreversible.
+To Add a row to the project file click on ![Add](img/add.png), or press Insert.
+To Duplicate an existing row, including all its data, select that row and click on ![Duplicate](img/duplicate.png).
+To Delete an existing row, select that row and click on ![Delete](img/delete.png), or press Delete. Note that this action is irreversible.
 
-To Sort the lines according to their frequency, click on the "Frequency, MHz" column title.
-To manually move a line up or down, select that line and click on ![Up](img/up.png) or ![Down](img/down.png).
+To Sort the rows according to their frequency, click on the "Frequency, MHz" column title.
+To manually move a row up or down, select that row and click on ![Up](img/up.png) or ![Down](img/down.png).
 
 The Filter drop-down box allows you to filter between the different views of All, DMR, and NXDN rows.
 
 Edit > Add Encryption Row enables you to add a row to your project. You should select the relevant encryption type.
 
 Edit > Scanners and Licenses ... enables you to Add, Edit, and Delete a scanner. Each scanner can have a unique name, Licenses and Key Mapping. 
-You can also paste the License(s) you have purchased. Do not forget to press OK and Close when done.
+You can also paste the License(s) you have purchased by clicking on the Licenses button. Do not forget to press OK and Close when done.
 
 ![screenshot](img/CFT2004Licensing.jpg)
 
