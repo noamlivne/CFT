@@ -74,9 +74,9 @@ Suppose we have one frequency on which radio stations with different color codes
 
 In this case we have to create two data rows where we have the same frequency but different encryption keys and color codes.
 
-![screenshot](img/man1.png)
+![screenshot](img/CFT2_0_0_5Complex1.jpg)
 
-![screenshot](img/man2.png)
+![screenshot](img/CFT2_0_0_5Complex1.jpg)
 
 ### Special case
 
