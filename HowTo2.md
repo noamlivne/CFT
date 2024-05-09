@@ -40,7 +40,6 @@ Tools > Debug Logs Filtering enables you to view the debug logs in a filtered ma
 ![screenshot](img/man5.png)
 
 The Help > About menu contains the version number and useful links for inpformation.
-
 Make sure to use the latest version.
 
 The parameters that you enter for each entry will be reflected in the main table view. Unmarked values will be denoted by "-".
@@ -48,15 +47,13 @@ The parameters that you enter for each entry will be reflected in the main table
 Each entry has an optional Notes field that is there for your convenience. It is not taken into account in the decryption process nor saved to the scanner.
 
 
-## Creating DMR (Motorola BP or Hytera BP) Encryption Method row
+## Creating DMR (Motorola BP or Hytera BP) and NXDN Encryption Method rows
 
 Initially it is assumed that you have an encryption key, you know what encryption algorithm it is designed for and what frequency the radio is transmitting on.
 
-Try to minimize the number of parameters you select.
+Try to minimize the number of parameters you select. The simple cases only require the frequency and key without any other marked parameter.
 
-If you have selected a value, it must be present when the digital signal is received, if it is not, the method with these parameters will not be used by the firmware.
-
-Sorting the rows in the list for complex cases is important.
+If you have selected a parameter, it must be present when the digital signal is received. If it is not relevant, the method with these parameters will not be used by the firmware.
 
 The screenshots may differ for different versions of CFT but the meaning is the same.
 
