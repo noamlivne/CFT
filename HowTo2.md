@@ -55,7 +55,7 @@ Try to minimize the number of parameters you select. The simple cases only requi
 
 If you have selected a parameter, it must be present when the digital signal is received. If it is not relevant, the method with these parameters will not be used by the firmware.
 
-The screenshots may differ for different versions of CFT but the meaning is the same.
+The screenshots in the examples below may differ for different versions of CFT but the meaning is the same.
 
 ### General case
 
@@ -72,7 +72,7 @@ This and the other more complex cases are similar. We must select the conditions
 
 Suppose we have one frequency on which radio stations with different color codes work. The stations that work with CC1 have the encryption key B00B555555 and CC2 has the encryption key FACEB00B55, for example. 
 
-In this case we have to create two data rows where we have the same frequency but different encryption keys and color codes.
+In this case we have to create two rows where we have the same frequency but different encryption keys and color codes.
 
 ![screenshot](img/CFT2_0_0_5Complex1.jpg)
 
@@ -97,7 +97,7 @@ and another entry with the same frequency, with the correct Encryption Method an
 ### Mixed use-case
 
 In case that different users of the same Talk Group use encrypted and clear voices at the same time, we call that a Mixed situation.
-We only need to enter one entry. That entry contains the single encryption key, the single frequency (no need to mark or enter a TGID), and the Encryption Value should be "Encrypted".
+We only need to create one row. That row contains the single encryption key, the single frequency (no need to mark or enter a TGID), and the Encryption Value should be "Encrypted".
 
 ![screenshot](img/man11.png)
 
