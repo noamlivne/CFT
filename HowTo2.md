@@ -76,7 +76,7 @@ In this case we have to create two data rows where we have the same frequency bu
 
 ![screenshot](img/CFT2_0_0_5Complex1.jpg)
 
-![screenshot](img/CFT2_0_0_5Complex1.jpg)
+![screenshot](img/CFT2_0_0_5Complex2.jpg)
 
 ### Special case
 
