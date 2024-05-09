@@ -78,7 +78,7 @@ In this case we have to create two data rows where we have the same frequency bu
 
 ![screenshot](img/CFT2_0_0_5Complex2.jpg)
 
-### Special case
+<!-- ### Special case
 
 Suppose that there are many Talk Groups that are encrypted with a key, but only one specific Talk Group does not use a key and its broadcast is clear. You must select "Non Encrypted" in the Encryption Value field. 
 At the end, you will have two entries for the same frequency: 
@@ -92,6 +92,7 @@ one is with no key entered (Encryption Method = No Encrypt), with the specific T
 and another entry with the same frequency, with the correct Encryption Method and Key entered, without marking any TGID.
 
 ![screenshot](img/man8.png)
+-->
 
 ### Mixed use-case
 
