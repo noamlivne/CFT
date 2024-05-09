@@ -99,7 +99,7 @@ and another entry with the same frequency, with the correct Encryption Method an
 In case that different users of the same Talk Group use encrypted and clear voices at the same time, we call that a Mixed situation.
 We only need to create one row. That row contains the single encryption key, the single frequency (no need to mark or enter a TGID), and the Encryption Value should be "Encrypted".
 
-![screenshot](img/man11.png)
+![screenshot](img/CFT2_0_0_5Mixed.jpg)
 
 
 ### Unprocessed cases
