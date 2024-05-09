@@ -61,7 +61,7 @@ The screenshots may differ for different versions of CFT but the meaning is the 
 
 It's simple. We choose the values that we initially know. In this case, we have one known frequency on which all radio transmissions are protected by one encryption key.
 
-![screenshot](img/man0.png)
+![screenshot](img/CFT2_0_0_5General.jpg)
 
 ### General but more complex case
 
